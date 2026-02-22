@@ -30,9 +30,12 @@ HIPAA Compliance: The description underscores the platform's commitment to HIPAA
 Accuracy and Reliability: The description emphasizes the platform's focus on accuracy and reliability in healthcare documentation. It assures users that the platform's AI models are trained to recognize medical terminology accurately, ensuring comprehensive documentation for every patient encounter.
 
 #Screen shorts
+
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/bdb1c70d-cb5b-4655-a133-201e6f01fba5" />
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/022718a3-7c63-4198-a7be-6edefbce290b" />
 <img width="230" height="512" alt="image" src="https://github.com/user-attachments/assets/399569d1-575a-4f36-b3df-d9283b138347" />
+
+
 #Playstore link
 https://play.google.com/store/apps/details?id=com.wingspan.aidocs&hl=en_IN
 
